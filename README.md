@@ -29,7 +29,6 @@ Bootstrap é um framework web com código-fonte aberto para desenvolvimento de c
 ![Projeto_001_Art_Template](./Project_001_Art_Template/img/layout_index.png)
 
 ---
-
 <!-- RODAPÉ -->
 <br>
 <div align="esquerda">
