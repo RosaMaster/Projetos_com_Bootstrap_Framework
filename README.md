@@ -15,7 +15,7 @@ Bootstrap é um framework web com código-fonte aberto para desenvolvimento de c
 <br>
 
 <!-- Skills -->
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;  
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=f64a1d&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=e9b925)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-0D1117.svg?style=for-the-badge&logo=css3&logoColor=2fa4d5)&nbsp;
@@ -30,6 +30,20 @@ Bootstrap é um framework web com código-fonte aberto para desenvolvimento de c
 ![Projeto_001_Art_Template](./Project_001_Art_Template/img/layout_index.png)
 
 
+**Projeto_002_Login_Template**
+
+![Projeto_002_Login_Template](/Project_002_Login_Template/img/layout.png)
+![Projeto_002_Registro_Template](/Project_002_Login_Template/img/layout_registro.png)
+
+
+**Projeto_003_ExactTime_Template**
+
+![Projeto_003_ExactTime_Template](/Project_003_ExactTime_Template/img/layout.png)
+
+
+**Projeto_004_Agencia_Template**
+
+![Projeto_004_Agencia_Template](/Project_004_Agencia_Template/img/layout.png)
 
 ---
 <!-- FOOTER -->
