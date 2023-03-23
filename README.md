@@ -32,18 +32,24 @@ Bootstrap é um framework web com código-fonte aberto para desenvolvimento de c
 
 **Projeto_002_Login_Template**
 
-![Projeto_002_Login_Template](/Project_002_Login_Template/img/layout.png)
-![Projeto_002_Registro_Template](/Project_002_Login_Template/img/layout_registro.png)
+![Projeto_002_Login_Template](./Project_002_Login_Template/img/layout.png)
+![Projeto_002_Registro_Template](./Project_002_Login_Template/img/layout_registro.png)
 
 
 **Projeto_003_ExactTime_Template**
 
-![Projeto_003_ExactTime_Template](/Project_003_ExactTime_Template/img/layout.png)
+![Projeto_003_ExactTime_Template](./Project_003_ExactTime_Template/img/layout.png)
 
 
 **Projeto_004_Agencia_Template**
 
-![Projeto_004_Agencia_Template](/Project_004_Agencia_Template/img/layout.png)
+![Projeto_004_Agencia_Template](./Project_004_Agencia_Template/img/layout.png)
+
+
+**Certificado**
+<!-- CERTIFICADO -->
+[![Capturar](https://udemy-certificate.s3.amazonaws.com/image/UC-c5a6f6fe-bd43-49a6-be3d-147b8245dcc1.jpg?v=1679543311000)](https://udemy-certificate.s3.amazonaws.com/image/UC-c5a6f6fe-bd43-49a6-be3d-147b8245dcc1.jpg?v=1679543311000)
+
 
 ---
 <!-- FOOTER -->
